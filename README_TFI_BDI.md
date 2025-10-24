@@ -7,7 +7,7 @@
 > Este repositorio contiene el **Trabajo Final Integrador** de la materia **Bases de Datos I (UTN)**.  
 > Incluye todos los scripts SQL, el PDF de documentación y el enlace al video de exposición del proyecto.
 
-> 🎥 **Presentación en video:** 
+> 🎥 **Presentación en video:** (https://drive.google.com/drive/folders/1KUt0-WkpGT8GpwaKd5IeEyf0ahqHmq1m?usp=drive_link)
 ---
 
 ## 📁 Estructura del proyecto
@@ -25,7 +25,7 @@ TFI_BDI_ComisionX_GrupoY_Apellidos/
 ├── 08_transacciones.sql       # Transacciones y control de errores
 ├── 09_concurrencia_guiada.sql # Pruebas de concurrencia y aislamiento (deadlocks)
 ├── README.md                  # Este archivo (documentación del proyecto)
-├── "Trabajo Final Integrador - Bases de Datos I.pdf"  # Documento final con evidencias y anexo IA
+├── "Trabajo Final Integrador - TFI_BDI_Comision5_ValentinPiñeyro_Pérez Lucio_Matias Pérez_Danilo Peirano.pdf"  # Documento final 
 └── video_link.txt             # Enlace al video (si se entrega fuera del PDF)
 ```
 
@@ -97,7 +97,7 @@ TFI_BDI_ComisionX_GrupoY_Apellidos/
 | **[Pérez Lucio]** | Carga masiva y consultas |
 | **[Pérez Leandro]** | Índices y optimización |
 | **[Valentin Piñeyro]** | Seguridad, transacciones y concurrencia |
-| **Comisión:** 5 | **Grupo:** Y |
+| **Comisión:** 5 | **Grupo:**  |
 
 > 📹 Presentación en video:
 

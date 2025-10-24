@@ -1,9 +1,9 @@
 USE tp_integrador_bd1;
 
 -- Crear usuario con privilegios mínimos
-DROP USER IF EXISTS 'usuario_tfi'@'localhost';
-CREATE USER 'usuario_tfi'@'localhost' IDENTIFIED BY 'tfi_seguro2025';
-GRANT SELECT, INSERT, UPDATE ON tp_integrador_bd1.* TO 'usuario_tfi'@'localhost';
+DROP USER IF EXISTS 'usuario_tpi'@'localhost';
+CREATE USER 'usuario_tpi'@'localhost' IDENTIFIED BY 'tpi_seguro2025';
+GRANT SELECT, INSERT, UPDATE ON tp_integrador_bd1.* TO 'usuario_tpi'@'localhost';
 FLUSH PRIVILEGES;
 
 -- Vistas seguras (ocultan datos sensibles)
