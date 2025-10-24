@@ -13,7 +13,7 @@
 ## 📁 Estructura del proyecto
 
 ```plaintext
-TFI_BDI_ComisionX_GrupoY_Apellidos/
+TFI_BDI_Comision5 Valentin Piñeyro, Pérez Lucio, Matias Pérez y Danilo Peirano
 ├── 01_esquema.sql             # Definición de tablas, claves PK/FK, dominios y constraints
 ├── 02_catalogos.sql           # Inserciones básicas en tablas de referencia / catálogos
 ├── 03_carga_masiva.sql        # Carga masiva idempotente (10k clientes, 50k ventas)
